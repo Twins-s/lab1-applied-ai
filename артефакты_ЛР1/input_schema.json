@@ -1,0 +1,361 @@
+{
+  "Marital Status": {
+    "type": "category",
+    "values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "Application mode": {
+    "type": "category",
+    "values": [
+      1,
+      2,
+      5,
+      7,
+      10,
+      15,
+      16,
+      17,
+      18,
+      26,
+      27,
+      39,
+      42,
+      43,
+      44,
+      51,
+      53,
+      57
+    ]
+  },
+  "Application order": {
+    "type": "number",
+    "min": 0.0,
+    "max": 9.0
+  },
+  "Course": {
+    "type": "category",
+    "values": [
+      33,
+      171,
+      8014,
+      9003,
+      9070,
+      9085,
+      9119,
+      9130,
+      9147,
+      9238,
+      9254,
+      9500,
+      9556,
+      9670,
+      9773,
+      9853,
+      9991
+    ]
+  },
+  "Daytime/evening attendance": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Previous qualification": {
+    "type": "category",
+    "values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      12,
+      14,
+      15,
+      19,
+      38,
+      39,
+      40,
+      42,
+      43
+    ]
+  },
+  "Previous qualification (grade)": {
+    "type": "number",
+    "min": 95.0,
+    "max": 190.0
+  },
+  "Nacionality": {
+    "type": "category",
+    "values": [
+      1,
+      2,
+      6,
+      11,
+      13,
+      14,
+      21,
+      22,
+      24,
+      25,
+      26,
+      32,
+      41,
+      62,
+      100,
+      101,
+      103,
+      105,
+      108
+    ]
+  },
+  "Mother's qualification": {
+    "type": "category",
+    "values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12,
+      14,
+      18,
+      19,
+      22,
+      26,
+      29,
+      30,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  "Father's qualification": {
+    "type": "category",
+    "values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12,
+      14,
+      18,
+      19,
+      20,
+      22,
+      25,
+      26,
+      27,
+      29,
+      30,
+      31,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  "Mother's occupation": {
+    "type": "category",
+    "values": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      90,
+      99,
+      122,
+      123,
+      131,
+      132,
+      134,
+      141,
+      143,
+      144,
+      151,
+      152,
+      153,
+      171,
+      173,
+      175,
+      191,
+      192,
+      193,
+      194
+    ]
+  },
+  "Father's occupation": {
+    "type": "category",
+    "values": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      90,
+      99,
+      101,
+      102,
+      103,
+      112,
+      122,
+      123,
+      131,
+      134,
+      135,
+      141,
+      143,
+      144,
+      151,
+      152,
+      153,
+      154,
+      161,
+      163,
+      171,
+      172,
+      175,
+      181,
+      182,
+      183,
+      192,
+      193,
+      194,
+      195
+    ]
+  },
+  "Admission grade": {
+    "type": "number",
+    "min": 95.0,
+    "max": 190.0
+  },
+  "Displaced": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Educational special needs": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Debtor": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Tuition fees up to date": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Gender": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Scholarship holder": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Age at enrollment": {
+    "type": "number",
+    "min": 17.0,
+    "max": 70.0
+  },
+  "International": {
+    "type": "number",
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Curricular units 1st sem (credited)": {
+    "type": "number",
+    "min": 0.0,
+    "max": 20.0
+  },
+  "Curricular units 1st sem (enrolled)": {
+    "type": "number",
+    "min": 0.0,
+    "max": 26.0
+  },
+  "Curricular units 1st sem (evaluations)": {
+    "type": "number",
+    "min": 0.0,
+    "max": 45.0
+  },
+  "Curricular units 1st sem (approved)": {
+    "type": "number",
+    "min": 0.0,
+    "max": 26.0
+  },
+  "Curricular units 1st sem (grade)": {
+    "type": "number",
+    "min": 0.0,
+    "max": 18.875
+  },
+  "Curricular units 1st sem (without evaluations)": {
+    "type": "number",
+    "min": 0.0,
+    "max": 12.0
+  },
+  "Unemployment rate": {
+    "type": "number",
+    "min": 7.6,
+    "max": 16.2
+  },
+  "Inflation rate": {
+    "type": "number",
+    "min": -0.8,
+    "max": 3.7
+  },
+  "GDP": {
+    "type": "number",
+    "min": -4.06,
+    "max": 3.51
+  }
+}
